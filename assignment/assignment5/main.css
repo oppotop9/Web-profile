@@ -1,0 +1,51 @@
+
+div{
+    text-align: center;
+    font-size: larger;
+    height: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    
+}
+
+#topic1{
+    text-align: left;
+    border: 5px double brown;
+    padding-left: 20px;
+    
+    color: rgb(255, 0, 0);
+    font-size: 50px;
+    height: 80px;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+hr{
+    height: 1px;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: rgb(225, 0, 255);
+    border: none;
+}
+#text1{
+    margin-left: 25%;
+    width: 49.5%;
+    margin-right: 25%;
+    font-size: larger;
+    color: rgb(0, 0, 0);
+    margin-bottom: 10px;
+}
+button{
+    text-align: center;
+    width: 40%;
+    padding: 5px;
+    margin-left: 30%;
+    margin-right: 25%;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 196, 250);
+    margin-bottom: 3px;
+}
+
+
+
